@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745823937974",
+    "project_id": "pruebalab11-48691",
+    "storage_bucket": "pruebalab11-48691.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745823937974:android:c209520ca1a7068e8f0d17",
+        "android_client_info": {
+          "package_name": "com.example.lab11_dam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgnST8By2AL8Z4g8eedQYU9RqtGJyt5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745823937974:android:39345615af067b5e8f0d17",
+        "android_client_info": {
+          "package_name": "dev.jj.lab11dam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgnST8By2AL8Z4g8eedQYU9RqtGJyt5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

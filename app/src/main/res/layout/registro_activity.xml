@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="128dp"
+        android:text="Registro Liga 1"
+        android:textAlignment="center"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextTeamName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre del equipo"/>
+
+    <EditText
+        android:id="@+id/editTextFoundationYear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Año de fundación"/>
+
+    <EditText
+        android:id="@+id/editTextTitlesWon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Número de títulos"/>
+
+    <EditText
+        android:id="@+id/editTextImageUrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="URL de la imagen"/>
+
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Guardar"/>
+</LinearLayout>
